@@ -1,1 +1,15 @@
+//For mypwd.c you can compile it using this command:
+gcc -o mypwd.exe mypwd.c
 
+
+//For myecho.c you can compile it using this command:
+gcc -o myecho.exe myecho.c
+
+
+
+//For mypwd.c you can compile it using this command:
+gcc -o myMV.exe myMV.c
+
+
+//For mypwd.c you can compile it using this command:
+gcc -o mypwd.exe mypwd.c
